@@ -1,0 +1,63 @@
+/* Type */
+
+body {
+	background-color: teal;
+	color: black;
+	font-family: sans-serif;
+	line-height: 1em;
+    font-size: 5em;
+    overflow: hidden;
+}
+
+.new-color {
+	color: blue;
+}
+
+p {
+	font-family: "teko" sans-serif;
+	transform: skewY(70deg);
+	transform: scaleY(20);
+	filter: blur(15px);
+}
+
+.Letter-1{
+	position: absolute;
+	top: 200px;
+	left: 345px;
+	color: white;
+	font-size: 10em;
+}
+
+.Letter-2{
+	position: absolute;
+	top: 350px;
+	left: 175px;
+	color: white;
+	font-size: 7em;
+	transform: skewX(75deg);
+}
+
+.Letter-3 {
+	position: absolute;
+	top: 175px;
+	left: 1000px;
+	color: white;
+	font-size: 7em;
+	transform: skewX(-75deg);
+}
+
+.Letter-4 {
+	position: absolute;
+	top: 800px;
+	left: 500px;
+	color: white;
+	font-size: 7em;
+	font-stretch: expanded;
+	transform: scaleY(.2);
+	}
+
+
+
+
+
+
